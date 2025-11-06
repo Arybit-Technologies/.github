@@ -51,8 +51,15 @@ Arybit’s ecosystem is a constellation of interconnected platforms — each des
 
 ### 📍 **TrackPro**  
 > Real-time AI-powered GPS tracking, monitoring, analytics, and geofencing platform.  
-**Focus:** Fleet management, real-time logistics visibility, and intelligent route optimization.  
+**Focus:** Fleet management, logistics visibility, and intelligent route optimization.  
 **Status:** Private  
+
+---
+
+### 🪙 **Arybit Nexbit**  
+> **Nexbit** is the next-generation payments platform that connects everyone — instantly settle across networks, build with programmable money, and scale without limits.  
+**Focus:** Empowering the world’s financial ecosystem through secure, inclusive, and intelligent digital payments.  
+**Features:** M-Pesa, card & bank integration, cross-network transfers, AI-driven insights, real-time analytics  
 
 ---
 
@@ -69,12 +76,6 @@ Arybit’s ecosystem is a constellation of interconnected platforms — each des
 
 ---
 
-### 🪙 **Arybit Nexbit**  
-> A secure, Africa-first crypto exchange and trading platform.  
-**Features:** M-Pesa, card & bank integration, AI-driven insights, real-time analytics  
-
----
-
 ### 🏥 **Arybit Healthcare**  
 > Intelligent hospital management and telemedicine systems.  
 **Focus:** Patient care analytics, billing automation, AI diagnostics  
@@ -82,7 +83,7 @@ Arybit’s ecosystem is a constellation of interconnected platforms — each des
 ---
 
 ### ☁️ **Arybit Cloud Platform (ACP)**  
-> Africa’s open, affordable cloud infrastructure — inspired by GCP, built for local developers and enterprises.  
+> Arybit’s open, affordable cloud infrastructure — inspired by GCP, built for local developers and enterprises.  
 **Features:** Compute, storage, networking, databases, developer APIs  
 
 ---
