@@ -176,7 +176,7 @@ We’re open to collaborations, partnerships, and joint research initiatives acr
 
 📧 **Contact:** [info@arybit.co.ke](mailto:info@arybit.co.ke)  
 🌐 **Website:** [arybit.co.ke](https://arybit.co.ke)  
-🏢 **Location:** GTC, ST, Kiambu Githunguri District, Kwamaiko  
+🏢 **Location:** Silverpool, 2 Jabavu Ln, Hurlingham, Nairobi, Kenya  
 
 ---
 
